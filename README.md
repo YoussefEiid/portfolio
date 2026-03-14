@@ -7,7 +7,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 You can view the live website here:
 
 🔗 **Portfolio:**
-https://your-portfolio-link.com
+https://youssefeiid.github.io/portfolio/
 
 ---
 
@@ -45,15 +45,9 @@ It includes:
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](preview.png)
-
----
-
 ## 📬 Contact
 
-* LinkedIn: https://www.linkedin.com/in/youssef-eid-a931a0351
+* LinkedIn: https://www.linkedin.com/in/youssef-eid-a931a0351/
 * GitHub: https://github.com/YoussefEiid
 
 ---
